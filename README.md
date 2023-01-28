@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prithurajb
-- 👀 I’m interested in ...Pyhton and web Development
+- 👀 I’m interested in ...Java and web Development
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
